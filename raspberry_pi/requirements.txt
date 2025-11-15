@@ -1,0 +1,4 @@
+paho-mqtt==1.6.1
+# On Raspberry Pi OS, install RPi.GPIO via apt: sudo apt install python3-rpi.gpio
+
+

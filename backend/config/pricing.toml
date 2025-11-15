@@ -1,0 +1,16 @@
+currency = "INR"
+
+[plans.ten_min]
+amount = 10        # ₹10
+duration = 10      # minutes
+
+[plans.thirty_min]
+amount = 30        # ₹30
+duration = 30
+
+[plans.hour_pass]
+amount = 50        # ₹50
+duration = 60
+
+
+
